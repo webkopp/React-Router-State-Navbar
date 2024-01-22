@@ -5,7 +5,7 @@ const Home = () => {
     return ( 
         <>
             <Header />
-            <h2>Home Menü's</h2>
+            <h2>Restaurant Menü's</h2>
         </>
      );
 }

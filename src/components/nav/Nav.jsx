@@ -6,10 +6,10 @@ const Nav = () => {
         <>
             <nav>
                 {/* Hier werden die Straßenschilder festgestellt */}
-                <Link to="/"><button>Home</button>  </Link>
-                <Link to="/about"><button>About</button></Link>
-                <Link to="/contact"><button>Contact</button></Link>
-                <Link to="/gallery"><button>Gallery</button></Link>
+                <Link to="/"><button>Restaurant</button>  </Link>
+                <Link to="/contact"><button>Kontakt</button></Link>
+                <Link to="/about"><button>Öffnungszeiten</button></Link>
+                <Link to="/gallery"><button>Gallerie</button></Link>
             </nav>
         </>
      );

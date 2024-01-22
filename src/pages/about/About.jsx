@@ -4,7 +4,7 @@ const About = () => {
     return ( 
         <>
             <Nav />
-            <h2>About</h2>
+            <h2>Öffnungszeiten</h2>
         </>
      );
 }

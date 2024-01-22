@@ -4,7 +4,7 @@ const Contact = () => {
     return ( 
         <>
             <Nav />
-            <h2>Contact</h2>
+            <h2>Kontakt</h2>
         </>
      );
 }
